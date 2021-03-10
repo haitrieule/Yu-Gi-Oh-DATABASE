@@ -1,0 +1,12 @@
+.card-css {
+    width: 18rem;
+}
+.aaa {
+    overflow: auto;
+    height: 100px;
+    max-height: 100px;
+}
+.title {
+    justify-content: center;
+    height: 50px;
+}
